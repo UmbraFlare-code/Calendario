@@ -1,0 +1,54 @@
+Creative Commons Attribution 4.0 International Public License
+=================================================================
+
+By using, copying, modifying, or distributing this project, you agree to the
+terms of the Creative Commons Attribution 4.0 International License, as well
+as the additional attribution clause included below.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for any purpose,
+  even commercially.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit by:
+
+1. Clearly identifying the original author:
+     "Created by https://github.com/TU_GITHUB_USERNAME"
+
+2. Providing a link to the original repository when possible.
+
+3. Indicating if changes were made.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+-----------------------------------------------------------------
+
+ADDITIONAL AUTHOR ATTRIBUTION REQUIREMENT
+-----------------------------------------------------------------
+Any public, private, or commercial use of this software, including forks,
+derivatives, or deployments, MUST include visible attribution to:
+
+    https://github.com/TU_GITHUB_USERNAME
+
+This notice must appear in at least one of the following locations:
+
+- README.md
+- About/Info section of the deployed app
+- Footer of the UI
+- App metadata or documentation
+
+Failure to include attribution constitutes a violation of this license.
+
+-----------------------------------------------------------------
+
+DISCLAIMER
+-----------------------------------------------------------------
+This software is provided "as is", without warranty of any kind.
+The licensor is not liable for damages arising from the use of this project.
+
+For full license text, see:
+https://creativecommons.org/licenses/by/4.0/legalcode
