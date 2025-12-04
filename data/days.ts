@@ -20,7 +20,7 @@ import {
 import type { AdventDay } from "@/types/advent"
 
 export const adventDays: AdventDay[] = [
-  { id: 6, icon: Video, title: "Videocita Especial", desc: "Una videollamada romántica solo para nosotros. Prepara algo bonito para vernos."},
+  { id: 5, icon: Video, title: "Videocita Especial", desc: "Una videollamada romántica solo para nosotros. Prepara algo bonito para vernos."},
   { id: 7, icon: Gamepad2, title: "Juego en Línea", desc: "Elige un juego y jugamos juntos online. ¡Tú mandas!" },
   { id: 8, icon: Moon, title: "Buenas Noches VIP", desc: "Una nota de voz especial de buenas noches, con todo mi amor." },
   { id: 9, icon: Camera, title: "Fotos Exclusivas", desc: "Te envío fotos especiales que solo tú verás." },
