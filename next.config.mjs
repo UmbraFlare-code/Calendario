@@ -1,4 +1,7 @@
 const nextConfig = {
+  experimental: {
+    turbo: false,
+  },
   typescript: {
     ignoreBuildErrors: true,
   },
@@ -7,7 +10,6 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
-  // Cambia 'tu-repositorio' por el nombre real de tu repo en GitHub
   basePath: process.env.NODE_ENV === 'production' ? '/Calendario' : '',
   assetPrefix: process.env.NODE_ENV === 'production' ? '/Calendario/' : '',
 }
