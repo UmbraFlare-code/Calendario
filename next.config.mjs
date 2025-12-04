@@ -1,17 +1,12 @@
 const nextConfig = {
-  experimental: {
-    turbo: false,
-  },
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
-  output: 'export',
-  trailingSlash: true,
-  basePath: process.env.NODE_ENV === 'production' ? '/Calendario' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/Calendario/' : '',
+  // Eliminar output: 'export' para Vercel
+  // Eliminar trailingSlash, basePath y assetPrefix para Vercel
 }
 
 export default nextConfig
